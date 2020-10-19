@@ -1,0 +1,3 @@
+files:
+  - source: app
+    translation: app/%original_file_name%
