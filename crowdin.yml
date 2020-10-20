@@ -1,3 +1,3 @@
 files:
   - source: /
-    translation: app/%original_file_name%
+    translation: '%original_file_name%'
